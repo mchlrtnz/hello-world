@@ -1,5 +1,5 @@
-#hello-world
+# hello-world
 
 My first repository in GitHub
 
-I love lots of :coffee and :pizza
+I love :coffee and :pizza
